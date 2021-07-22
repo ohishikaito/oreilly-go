@@ -1,4 +1,4 @@
- $(function(){
+$(function(){
 
   var socket = null;
   var msgBox = $("#chatbox textarea");
